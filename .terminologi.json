@@ -1,0 +1,1084 @@
+{
+
+    "aksellast": {
+      "ord": "aksellast",
+      "synonym": "akseltrykk",
+      "definisjon": "Total belastning fra et kjøretøys aksel på underlaget."
+     },
+
+    "ansett": {
+      "ord": "ansett",
+      "definisjon": "start av boring for å gi borskjæret tak på berget (påskråming)"
+     },
+
+    "asfalt": {
+      "ord": "asfalt",
+      "definisjon": "En ensartet blanding av steinmateriale og bitumen."
+     },
+
+    "asfaltbetong": {
+      "ord": "asfaltbetong (Ab)",
+      "definisjon": "En ensartet blanding av tørket oppvarmet steinmateriale, evt. med tilsetting av filler, og oppvarmet bitumen."
+     },
+
+    "asfaltert grus": {
+      "ord": "asfaltert grus (Ag)",
+      "definisjon": "En ensartet blanding av tørket, oppvarmet steinmateriale (grus) og oppvarmet bitumen."
+     },
+
+    "asfaltgrusbetong": {
+      "ord": "asfaltgrusbetong (Agb)",
+      "definisjon": "En ensartet blanding av tørket, oppvarmet, steinmateriale, evt. med tilsetting av filler og oppvarmet bitumen. Asfaltgrusbetong adskiller seg fra asfaltbetong ved at det stilles mindre strenge krav til steinmaterialene og ved at det brukes et mykere bindemiddel."
+     },
+
+    "asfaltert finpukk": {
+      "ord": "asfaltert finpukk (Af)",
+      "definisjon": "En ensartet blanding av tørket, oppvarmet pukk og oppvarmet bitumen. Brukes til avstrøing av tette dekker."
+     },
+
+    "asfaltert pukk": {
+      "ord": "asfaltert pukk (Ap)",
+      "definisjon": "En ensartet blanding av tørket, oppvarmet steinmateriale hvor den overveiende del er pukk (stein <= 4 mm) og oppvarmet bitumen."
+     },
+
+    "asfaltert sand": {
+      "ord": "asfaltert sand (As)",
+      "definisjon": "En ensartet blanding av tørket, oppvarmet steinmateriale (fin sand) og oppvarmet bitumen."
+     },
+
+    "knust asfalt": {
+      "ord": "asfalt, knust (Ak)",
+      "definisjon": "Sortering produsert ved granulering eller nedknusing av asfaltavfall (fresemasser eller oppgravde asfaltflak)."
+     },
+
+    "avløpsledning": {
+      "ord": "avløpsledning",
+      "definisjon": "Rør med tette vegger som fører vann fra samlekummer for drensvann, overflatevann og spillvann til avløp."
+     },
+
+    "avvanningssystem": {
+      "ord": "avvanningssystem",
+      "definisjon": "Sammenhengende system av avvanningskonstruksjoner for oppsamling og bortledning av vann fra vegområdet."
+     },
+
+    "kombinert avvanningssystem": {
+      "ord": "avvanningssystem, kombinert",
+      "definisjon": "Avvanningssystem hvor overflatevann og drensvann føres i felles avløpsledninger."
+     },
+
+    "separat avvanningssystem": {
+      "ord": "avvanningssystem, separat",
+      "definisjon": "Avvanningssystem hvor overflatevann og drensvann føres i atskilte avløpsledninger."
+     },
+
+    "bak stuff": {
+      "ord": "bak stuff",
+      "definisjon": "begrep for å betegne arbeider som kan utføres slik at de ikke medfører heft eller stillstand i fremdriften ved stuff"
+     },
+
+    "benkelmanbjelke": {
+      "ord": "benkelmanbjelke",
+      "definisjon": "Utstyr for måling av bæreevne. Består av en ca. 4 m lang bjelke til måling av nedbøyningen under en gitt belastning. Nedbøyningene gir uttrykk for vegens bæreevne."
+     },
+
+    "berghøyde": {
+      "ord": "berghøyde",
+      "definisjon": "Høyde i vertikalprojeksjon fra skjæringstopp i kontur ned til prosjektert sprengningsnivå."
+     },
+
+    "rensk av bergoverflate": {
+      "ord": "bergoverflate, rensk av",
+      "definisjon": "Rengjøring av avdekket berg før sprengning. Angis med forskjellige nøyaktighetskrav."
+     },
+
+    "bindlag": {
+      "ord": "bindlag (asfalt)",
+      "definisjon": "Nedre del av asfaltdekket, dvs lag mellom slitelag og bærelag."
+     },
+
+    "bitumen": {
+      "ord": "bitumen",
+      "definisjon": "Fellesbetegnelse for faste eller flytende hydrokarboner. Naturlig forekommende eller fremstilt ved raffinering av jordolje. Brukes som bindemiddel ved fremstilling av asfaltmasse. Graderes etter penetrasjon eller viskositet."
+     },
+
+    "bitumenemulsjon": {
+      "ord": "bitumenemulsjon",
+      "definisjon": "Bitumen som er emulgert i vann. Brukes til klebing, ved overflatebehandling og som bindemiddel ved fremstilling av asfaltmasse."
+     },
+
+    "bitumenløsning": {
+      "ord": "bitumenløsning",
+      "definisjon": "Bitumen som midlertidig er gjort flytende ved tilsetting av lettere oljer. Brukes bl.a. som bindemiddel til overflatebehandling og penetrert pukk."
+     },
+
+    "bærelag": {
+      "ord": "bærelag",
+      "definisjon": "Det øverste lag under vegdekket. Deles ofte i nedre og øvre bærelag. Hovedfunksjonen til bærelaget er å oppta spenninger kmyttet til ringtrykk."
+     },
+
+    "bærelagsgrus": {
+      "ord": "bærelagsgrus",
+      "definisjon": "Se materialer velgraderte."
+     },
+
+    "densitet": {
+      "ord": "densitet",
+      "definisjon": "Masse pr. volumenhet. For bl.a. granulerte materialer skilles det mellom bulkdensitet og partikkeldensitet. For hver av disse er det flere varianter avhengif av målemetode og materialtilstanden."
+     },
+
+    "lukket drensgrøft": {
+      "ord": "drensgrøft, lukket",
+      "definisjon": "Drensgrøft fylt med filtermateriale og eventuelt med drensrør for samling og bortledning av drensvann."
+     },
+
+    "driftsikring": {
+      "ord": "driftsikring",
+      "definisjon": "Sikringstiltak som er nødvendige for anleggsdriften (sikringsrensk, bolting, sprøytebetong, sikringsstøp etc.)."
+     },
+
+    "driftskontroll": {
+      "ord": "driftskontroll",
+      "definisjon": "Kontroll av den løpende produksjon på et veganlegg."
+     },
+
+    "driving": {
+      "ord": "driving",
+      "definisjon": "Arbeidsoperasjon som omfatter boring, lading og sprengning av en tunnel."
+     },
+
+    "dypdrenering": {
+      "ord": "dypdrenering",
+      "definisjon": "Fellesbetegnelse på dreneringsmetode hvor overskuddsvann fra vegens underbygning eller undergrunn føres ut til terrengoverflaten eller ned til drenerende lag."
+     },
+
+    "dypsprengning": {
+      "ord": "dypsprengning",
+      "definisjon": "Løssprengning av berg til et prosjektert sprengningsnivå under prosjektert utlastningsnivå."
+     },
+
+    "emulsjon": {
+      "ord": "emulsjon",
+      "definisjon": "Væske hvor det ene av to ikke blandbare stoffer (indre fase) holdes oppslemmet i en finfordelt tilstand i det andre (ytre fase), som regel ved hjelp av små mengder tilsettingsstoff (emulgator). Avhengig av brytningstiden skilles mellom rasktbrytende (labile) og saktebrytende (stabile) emulsjoner."
+     },
+
+    "erosjon": {
+      "ord": "erosjon",
+      "definisjon": "Utgraving (slitasje) forårsaket av naturen."
+     },
+
+    "fiberduk": {
+      "ord": "fiberduk",
+      "definisjon": "Permeabel duk som hovedsakelig brukes til separasjon av gode og dårlige masser, eller som filter. Visse duker har også en armeringsfunksjon. Betegnelsene geotekstil og fiberduk brukes om hverandre."
+     },
+
+    "filler": {
+      "ord": "filler",
+      "definisjon": "steinmateriale med kornstørrelse < 0,063 mm. Handelsvaren filler skal ha en gradering innenfor nærmere angitte grenseverdier, blant annet kreves at minst 70% er mindre enn 0,063 mm."
+     },
+
+    "filterlag": {
+      "ord": "filterlag",
+      "definisjon": "Lag av filtermateriale, normalt nederste lag i overbygningen mellom planum og forsterkningslag. Er i dag normalt erstattet av en fiberduk."
+     },
+
+    "filterkriterium": {
+      "ord": "filterkriterium (mellom jordarter)",
+      "definisjon": "Et sett av forholdstall mellom kornstørrelser ved bestemte punkter i to kornkurver som må være oppfylt for at materialene ikke skal trenge inn i hverandre, samt at det groveste materialet er drenerende i forhold til det fineste."
+     },
+
+    "finpukk": {
+      "ord": "finpukk",
+      "definisjon": "Knust steinmateriale med sortering innenfor området 4 til 22 mm, f.eks. 11/16 mm."
+     },
+
+    "forkiling": {
+      "ord": "forkiling",
+      "definisjon": "Tetting av pukklag i overflaten med pukk av finere gradering eller med asfalterte materialer."
+     },
+
+    "forsegling": {
+      "ord": "forsegling",
+      "definisjon": "Behandling av vegdekke hvor vegbanen først sprøytes med bindemiddel og deretter avstrøs med sand el.l."
+     },
+
+    "forskjæring": {
+      "ord": "forskjæring",
+      "definisjon": "Den nødvendige åpne skjæring for tunnelpåhugget."
+     },
+
+    "forsterkningslag": {
+      "ord": "forsterkningslag",
+      "definisjon": "Lag i vegens overbygning, mellom planum og bærelag. Hovedfunksjonen er å fordele trafikkbelastningen slik at undergrunnen ikke overbelastes."
+     },
+
+    "forvitring": {
+      "ord": "forvitring",
+      "definisjon": "Gradvis nedbrytning av materialer utsatt for klimapåkjenninger og kjemiske stoffer."
+     },
+
+    "fraksjon": {
+      "ord": "fraksjon",
+      "definisjon": "se kornfraksjon."
+     },
+
+    "friksjonsjordart": {
+      "ord": "friksjonsjordart",
+      "definisjon": "Grovkornige jordarter (sand og grovere) der størstedelen av jordartens skjærstyrke skyldes friksjon (motsatt: kohesjonsjordart)."
+     },
+
+    "friksjonskoeffisient": {
+      "ord": "friksjonskoeffisient",
+      "definisjon": "Ubenevnt tall som angir friksjonsforholdet mellom to flater/materialer. Definert som forholdet mellom friksjonskraften og normalkraften."
+     },
+
+    "frostmengde": {
+      "ord": "frostmengde",
+      "definisjon": "Summen av produktet av antall timer (evt. døgn) i et år med temperatur lavere enn 0 °C og den gjennomsnittlige temperatur i denne tiden. Uttrykkes ofte i timegrader eller døgngrader."
+     },
+
+    "frostsikringslag": {
+      "ord": "frostsikringslag",
+      "definisjon": "Lag som er beregnet på, helt eller delvis, å hindre frosten i å trenge ned i telefarlig undergrunn eller underbygning."
+     },
+
+    "lett fylling": {
+      "ord": "fylling, lett",
+      "definisjon": "Vegfylling som pga. stabilitets- eller setningsforhold bygges opp at materialer som er vesentlig lettere enn vanlige fyllmasser (ofte 0,02 til 0,1 t/m3 mot vanlig ca. 2 t/m3)."
+     },
+
+    "fyllingshøyde": {
+      "ord": "fyllingshøyde",
+      "definisjon": "Høydeforskjell mellom vegkant og fyllingsfot."
+     },
+
+    "gabion": {
+      "ord": "gabion",
+      "definisjon": "se steinkurver."
+     },
+
+    "gjenbruksasfalt": {
+      "ord": "gjenbruksasfalt (Gja)",
+      "definisjon": "Betegnelse på bærelag eller vegdekke der bruken av gamle asfaltmasser skjer på en slik måte eller i et slikt omfang at det ikke lenger er relevant å nytte spesifikasjonene for de normerte massetypene. Produksjon av gjenbruksasfalt inkluderer tilsetning av nytt bituminøst bindemiddel."
+     },
+
+    "gjenbruksbetong": {
+      "ord": "gjenbruksbetong (Gjb)",
+      "definisjon": "Forsterkningslag- eller bærelagmasse som består hovedsakelig av resirkulert knust betong eller blandet masse (knust betong og tegl)."
+     },
+
+    "graderingstall": {
+      "ord": "graderingstall (Cu)",
+      "definisjon": "Forholdet mellom kornstørrelsene (d), normalt ved 60 % og 10 % gjennomgang i en kornkurve, dvs. Cu=d60/d10."
+     },
+
+    "gravitasjonsmur": {
+      "ord": "gravitasjonsmur",
+      "definisjon": "Støttemur som oppnår nødvendig stabilitet mot jordtrykk og andre påkjenninger ved sin egen masse."
+     },
+
+    "grensekurver": {
+      "ord": "grensekurver",
+      "definisjon": "Begrensningskurver for normalt tillatte korngraderinger."
+     },
+
+    "grunnsprengning": {
+      "ord": "grunnsprengning",
+      "definisjon": "Løssprengning av berg til teoretisk planum."
+     },
+
+    "grovpukk": {
+      "ord": "grovpukk",
+      "definisjon": "Knust steinmateriale med sortering innenfor området 4-90 mm."
+     },
+
+    "grunnvann": {
+      "ord": "grunnvann",
+      "definisjon": "Fritt bevegelig vann som finnes i grunnen, fra det nivå alle porer og sprekker er fylt med vann."
+     },
+
+    "grus": {
+      "ord": "grus",
+      "definisjon": "Naturlig forekommende steinmateriale hvor grusfraksjonen (2-60 mm) er den dominerende."
+     },
+
+    "sams grus": {
+      "ord": "grus, sams",
+      "definisjon": "Naturlig forekommende steinmateriale hvor materiale over 120 mm er fjernet."
+     },
+
+    "sams knust grus": {
+      "ord": "grus, sams knust",
+      "definisjon": "Naturlig forekommende steinmateriale i blanding med nedknuste overstørrelser."
+     },
+
+    "grusveg": {
+      "ord": "grusveg",
+      "definisjon": "Veg med slitelag av knust grus."
+     },
+
+    "hardhet": {
+      "ord": "hardhet",
+      "definisjon": "1. Beskrivelse av et bitumens konsistens, bestemt ved måling av penetrasjon.\n2. Uttrykk for en støpeasfalts stabilitet, målt i mm for inntrykk i prøvestykke med belastet standardstempel."
+     },
+
+    "hulrom": {
+      "ord": "hulrom",
+      "definisjon": "I asfaltdekke betegnelsen på de mellomrom mellom mineralkornene som ikke er fylt med bindemiddel. Hulrommet angis i prosent av totalt volum."
+     },
+
+    "humus": {
+      "ord": "humus",
+      "definisjon": "Finfordelte, delvis nedbrutte plante- og dyrerester i jord- og steinmaterialer."
+     },
+
+    "hvelv": {
+      "ord": "hvelv",
+      "definisjon": "Innebygde tak og vegger i tunnel, enten frittstående, forankrede eller kontaktstøpte. Kfr. kontakthvelv."
+     },
+
+    "frittbærende hvelv": {
+      "ord": "hvelv, frittbærende",
+      "definisjon": "Hvelv som ikke støpes i kontakt med tunneltaket."
+     },
+
+    "hydrometeranalyse": {
+      "ord": "hydrometeranalyse",
+      "definisjon": "Se slemmeanalyse."
+     },
+
+    "impregnering": {
+      "ord": "impregnering",
+      "definisjon": "Bruk av bindemiddel som trenger ned i og stabiliserer et mekanisk stabilisert underlag, og sikrer en god forankring mellom dette og vegdekket."
+     },
+
+    "injeksjon": {
+      "ord": "injeksjon",
+      "definisjon": "tetnings- og stabiliseringsarbeider ved innføring av egnet middel under trykk"
+     },
+
+    "innløpskum": {
+      "ord": "innløpskum",
+      "definisjon": "Kum med innløp for overflatevann gjennom rist og/eller sluk til avløpsledning."
+     },
+
+    "inspeksjonskum": {
+      "ord": "inspeksjonskum",
+      "definisjon": "Kum som gir atkomst til å inspisere, kontrollere og vedlikeholde ledninger i grunnen."
+     },
+
+    "instabilitet": {
+      "ord": "instabilitet",
+      "definisjon": "Uttrykk for materialers manglende motstandsevne mot deformasjoner på grunn av dynamiske og/eller statiske belastninger."
+     },
+
+    "iskjøving": {
+      "ord": "iskjøving",
+      "definisjon": "Utfrysing av fritt tilstrømmende vann. Kan føre til bl.a. løfting som kan minne om virkningen av telehiv."
+     },
+
+    "jevnhet": {
+      "ord": "jevnhet",
+      "definisjon": "Uttrykk for hvor mye en overflate avviker fra en plan flate. Måles vanligvis med rettholt. På ferdig dekkeoverflate brukes ofte måleutstyr basert på laser og ultralyd."
+     },
+
+    "armert jord": {
+      "ord": "jord, armert",
+      "definisjon": "Jordkonstruksjoner forsterket med kunstige materialer med det formål å forbedre egenskapene til konstruksjonen f.eks m.h.t. bæreevne, deformasjon og stabilitet."
+     },
+
+    "kohesiv jordart": {
+      "ord": "jordart, kohesiv",
+      "definisjon": "Finkornige jordarter (silt/leire) der den vesentligste del av skjærstyrken skyldes kohesjon i massene (motsatt: friksjonsjordart)."
+     },
+
+    "telefarlig jordart": {
+      "ord": "jordart, telefarlig",
+      "definisjon": "Jordart som under frysing har evnen til å trekke opp vann kapillært til frostsonen."
+     },
+
+    "jordmasser": {
+      "ord": "jordmasser",
+      "definisjon": "Løsmasser som består av naturlig forekommende løsavleiringer fra og med leire til og med 1 m3 blokk."
+     },
+
+    "kalkstabilisering": {
+      "ord": "kalkstabilisering",
+      "definisjon": "Innblanding av brent kalk eller hydratkalk i kohesive jordarter for å oppnå økt bæreevne."
+     },
+
+    "kjørebane": {
+      "ord": "kjørebane",
+      "definisjon": "Den del av vegen som består av ett eller flere kjørefelt som ligger inntil hverandre og i samme plan."
+     },
+
+    "klebing": {
+      "ord": "klebing",
+      "definisjon": "Bruk av bituminøst bindemiddel for å sikre god heft mellom nytt asfaltlag og underliggende bundne lag (asfalt, betong, Cg)."
+     },
+
+    "komprimeringsgrad (asfalt)": {
+      "ord": "komprimeringsgrad (asfalt)",
+      "definisjon": "Forholdet mellom dekkets densitet ρd i felt og referansedensitet bestemt ved komprimering av massen i lab med Marshall stamping. Uttrykkes i prosent."
+     },
+
+    "komprimeringsgrad (steinmateriale)": {
+      "ord": "komprimeringsgrad (steinmateriale)",
+      "definisjon": "Forholdet mellom materialets tørre densitet i felt og den referansedensitet en standard komprimeringsutførelse i lab, f.eks. Standard Proctor eller Modifisert Proctor, gir. Uttrykkes i prosent. Metoden brukes på relativt tette og velgraderte materialer opp til ca 32 mm kornstørrelse. For grove/åpne materialer bestemmes komprimeringsgraden på andre måter."
+     },
+
+    "kontakthvelv": {
+      "ord": "kontakthvelv",
+      "definisjon": "Hvelv som støpes i kontakt med tak og vegger i en tunnel."
+     },
+
+    "kontursprengning": {
+      "ord": "kontursprengning",
+      "definisjon": "Sprengningsmetode for å oppnå en bedre kvalitet på skjæringsflatene, f.eks. presplitting eller slettsprengning"
+     },
+
+    "kornform": {
+      "ord": "kornform",
+      "definisjon": "Karakteristikk av et steinkorns form (som rundt, kubisk, langstrakt eller flisig) etter forholdet bredde/tykkelse og forholdet lengde/tykkelse."
+     },
+
+    "kornfraksjon": {
+      "ord": "kornfraksjon",
+      "definisjon": "Del av steinmateriale med kornstørrelser mellom to angitte yttergrenser som gir navn til fraksjonen. Se også sortering."
+     },
+
+    "kornkurve": {
+      "ord": "kornkurve",
+      "definisjon": "Grafisk fremstilling av korngraderingen til et steinmateriale, se siktekurve."
+     },
+
+    "kornstørrelse": {
+      "ord": "kornstørrelse",
+      "definisjon": "Bestemmes ofte ved slemmeanalyse og/eller sikteanalyse. Se også siktstørrelse. Se også siktstørrelse, nedre og øvre (d og D)."
+     },
+
+    "maksimal kornstørrelse": {
+      "ord": "kornstørrelse, maksimal",
+      "definisjon": "Maskevidden i det minste sikt som 100 % av steinmaterialet passerer. Se kornstørrelse."
+     },
+
+    "krakelering": {
+      "ord": "krakelering",
+      "definisjon": "Uregelmessig sprekkedannelse i form av et rutemønster i overflaten av veg med fast dekke."
+     },
+
+    "kult": {
+      "ord": "kult",
+      "definisjon": "Knuste steinmaterialer med øvre siktstørrelse i området 90 til 300 mm, f.eks. 22/150 mm."
+     },
+
+    "kulvert": {
+      "ord": "kulvert",
+      "definisjon": "Vanngjennomløp på tvers av vegen med overliggende fylling og åpent inn- og utløp, og lysåpning inntil 2,5 m Kulvert med lysåpning større enn 2,5 m betegnes bru. Kulvert med maks lysåpning 1 m betegnes stikkrenne.(1,0 m < d < 2,5 m)."
+     },
+
+    "leire": {
+      "ord": "leire",
+      "definisjon": "Kohesjonsjordart med over 30 masseprosent materiale med kornstørrelse i leirfraksjonen (mindre enn 0,002 mm). Se også jordart, kohesiv."
+     },
+
+    "overkonsolidert leire": {
+      "ord": "leire, overkonsolidert",
+      "definisjon": "Leire som tidligere har hatt større belastning."
+     },
+
+    "lettklinker": {
+      "ord": "lettklinker",
+      "definisjon": "Granulert materiale produsert ved oppvarming av leire i roterovn ved ca 1200 oC (Leca)."
+     },
+
+    "maskesikt": {
+      "ord": "maskesikt",
+      "definisjon": "Sikt av trådduk med like store, kvadratiske åpninger mellom trådene (motsatt: platesikt)."
+     },
+
+    "maskevidde": {
+      "ord": "maskevidde",
+      "definisjon": "Den korteste frie avstand mellom trådene i et maskesikt eller langmaskesikt (stavsikt)."
+     },
+
+    "maskinkult": {
+      "ord": "maskinkult",
+      "definisjon": "Se kult."
+     },
+
+    "massetak": {
+      "ord": "massetak",
+      "definisjon": "Sidetak hvor det tas ut masser til underbygningen."
+     },
+
+    "mekanisk stabiliserte materialer": {
+      "ord": "materialer, mekanisk stabiliserte",
+      "definisjon": "Bærelagsmateriale hvor bæreevnen er oppnådd ved mekanisk påvirkning (komprimering) uten tilsetning av stabiliserende midler som bitumen, sement e.l."
+     },
+
+    "selvdrenerende materialer": {
+      "ord": "materialer, selvdrenerende",
+      "definisjon": "Et materiale er vanligvis selvdrenerende dersom mindre enn 7 % av materialet mindre enn 22,4 mm passerer 63 µm siktet (se også vannømfintlighet)."
+     },
+
+    "materialtak": {
+      "ord": "materialtak",
+      "definisjon": "Sidetak hvor det tas ut masser til overbygningen."
+     },
+
+    "membranisolering": {
+      "ord": "membranisolering",
+      "definisjon": "Vannsikringsmetode som går ut på å legge et vanntett sjikt for å hindre vanngjennomgang."
+     },
+
+    "midtdeler": {
+      "ord": "midtdeler",
+      "definisjon": "Skille mellom kjørebaner med trafikk i motsatte kjøreretninger."
+     },
+
+    "morene": {
+      "ord": "morene",
+      "definisjon": "Naturlig forekommende steinmateriale som er transportert og avsatt direkte av en bre. M. er gjerne usortert, dvs. at alle kornstørrelser kan være til stede."
+     },
+
+    "motfylling": {
+      "ord": "motfylling",
+      "definisjon": "Opplag av masse for å sikre stabilitet i et område."
+     },
+
+    "nisje": {
+      "ord": "nisje",
+      "definisjon": "sideveis utvidelse i tunnel eller bergrom"
+     },
+
+    "overberg": {
+      "ord": "overberg",
+      "definisjon": "masser utenfor prosjektert sprengningsprofil"
+     },
+
+    "overbygning": {
+      "ord": "overbygning",
+      "definisjon": "Den del av vegkroppen som er over traubunn (planum). Overbygningen kan bestå av frostsikringslag, filterlag (ev. fiberduk), forsterkningslag, bærelag og vegdekke (bindlag og slitelag)."
+     },
+
+    "overflatebehandling": {
+      "ord": "overflatebehandling",
+      "definisjon": "Spesiell type asfaltdekke som produseres på vegen. Framstilles ved spredning av flytende bindemiddel på vegen med etterfølende påføring av pukk eller grus. Ved dobbel overflatebehandling utføres spredning av bindemiddel og pukk/ grus to ganger. Ved bruk av grus kalles dekket også for Ottadekke."
+     },
+
+    "overheng": {
+      "ord": "overheng",
+      "definisjon": "Berg som henger ut over grøft eller vegkropp."
+     },
+
+    "overstørrelse": {
+      "ord": "overstørrelse",
+      "definisjon": "Andel korn i en sortering som er større enn øvre siktstørrelse (D), også kalt overkorn. Mengden angis i masseprosent av det samlede materialet."
+     },
+
+    "overvannsledning": {
+      "ord": "overvannsledning",
+      "definisjon": "Rør med tette vegger som fører overflatevann fra samlekummer til naturlig avløp."
+     },
+
+    "pall": {
+      "ord": "pall",
+      "definisjon": "Et bergvolum som sprenges ut i en høyde"
+     },
+
+    "pallhøyde": {
+      "ord": "pallhøyde",
+      "definisjon": "Høyden av den pall som skal sprenges i en operasjon."
+     },
+
+    "permeabilitet": {
+      "ord": "permeabilitet (k)",
+      "definisjon": "Uttrykk for et materiales vanngjennomtrengelighet. Angis i cm/s."
+     },
+
+    "planum": {
+      "ord": "planum",
+      "definisjon": "Overflaten av underbygningen. Se også traubunn."
+     },
+
+    "rensk av planum": {
+      "ord": "planum, rensk av",
+      "definisjon": "Fjerning av løse masser på planum (såle)(tidl. traubunn) etter grunnsprengning. Angis med forskjellige nøyaktighetskrav, f.eks. maskinrensk, håndrensk, kilrensk, spyling."
+     },
+
+    "plastisitetsgrense": {
+      "ord": "plastisitetsgrense (WP)",
+      "definisjon": "Laveste vanninnhold i prosent av tørrstoffmengden hvor en jordart i omrørt tilstand er plastisk. Bestemmes ved utrulling av jordarten til en 3 mm tykk tråd."
+     },
+
+    "plastisitetsindeks": {
+      "ord": "plastisitetsindeks (IP)",
+      "definisjon": "Differansen mellom flytegrense WL og plastisitetsgrense WP."
+     },
+
+    "platebelastningsforsøk": {
+      "ord": "platebelastningsforsøk",
+      "definisjon": "Metode til bestemmelse av sammenhengen mellom trykk og elastisk deformasjon på et lag i en vegkonstruksjon. Brukes til måling av en vegs E-modul eller bæreevne og til kontroll av komprimeringsgraden."
+     },
+
+    "platesikt": {
+      "ord": "platesikt",
+      "definisjon": "Sikt av plater med utstansede kvadratiske åpninger (motsatt: platesikt)"
+     },
+
+    "polystyren ekspandert": {
+      "ord": "polystyren ekspandert (EPS)",
+      "definisjon": "Polystyrenkorn som ved hjelp av damp ekspanderes til plater eller blokker av forskjellig størrelse. Brukes først og fremst som lett fyllmasse."
+     },
+
+    "ekstrudert polystyren": {
+      "ord": "polystyren, ekstrudert (XPS)",
+      "definisjon": "Smeltet polystyren som under høyt trykk ekstruderes gjennom en dyse til ønsket platetykkelse. Brukes til frostsikring."
+     },
+
+    "presplitting": {
+      "ord": "presplitting",
+      "definisjon": "Kontursprengning som utføres ved at konturhullene sprenges før en salve eller på det/de første tennernummeret/ene i en salve."
+     },
+
+    "modifisert proctor": {
+      "ord": "Proctor, modifisert",
+      "definisjon": "Metode for bestemmelse av optimalt vanninnhold og høyeste tørrdensitet for jordarter. Utføres ved at materialet komprimeres i 5 lag i en standardisert form med en 4,8 kg stamper med 45 cm fri fallhøyde. Se vanninnhold, optimalt."
+     },
+
+    "standard proctor": {
+      "ord": "Proctor, standard",
+      "definisjon": "Metode for bestemmelse av optimalt vanninnhold og høyeste tørrdensitet for jordarter. Utføres ved at materialet komprimeres i 3 lag i en standardisert form med en 2,63 kg stamper med 30 cm fri fallhøyde. Se vanninnhold, optimalt."
+     },
+
+    "profilsprengning": {
+      "ord": "profilsprengning",
+      "definisjon": "Se kontursprengning."
+     },
+
+    "pukk": {
+      "ord": "pukk",
+      "definisjon": "Knust steinmateriale med sortering innenfor området 4- 90 mm, f.eks. 32/63 mm."
+     },
+
+    "forkilt pukk": {
+      "ord": "pukk, forkilt (Fp)",
+      "definisjon": "Ensgradert bærelagsmateriale av pukk som er forkilt med finpukk for å gi laget økt stabilitet."
+     },
+
+    "penetrert pukk": {
+      "ord": "pukk, penetrert (Pp)",
+      "definisjon": "Pukklag som er sprøytet/penetrert med bitumen og forkilt i overflaten ved nedvalsing av finpukk eller asfalterte materialer."
+     },
+
+    "påhugg": {
+      "ord": "påhugg",
+      "definisjon": "Den første salve for en bergskjæring eller for en tunnel (tunnelpåhugg)."
+     },
+
+    "rettholt": {
+      "ord": "rettholt",
+      "definisjon": "3-5 m langt bord for kontroll av overflaters jevnhet. Til måling av ujevnheter ved skjøter på asfaltdekker brukes ofte 1 m lang rettholt, evt. vater."
+     },
+
+    "romvekt": {
+      "ord": "romvekt",
+      "definisjon": "Se bulkdensitet. Se også densitet."
+     },
+
+    "salve": {
+      "ord": "salve",
+      "definisjon": "Et bergparti som sprenges ut ved én enkelt tenningsoperasjon. Betegnelsen nyttes om bergpartiet både i fast og løs tilstand (før og etter detonering)."
+     },
+
+    "salveplan": {
+      "ord": "salveplan",
+      "definisjon": "Skriftlig plan med skisse som beskriver boring, lading, tenningsnummerering og dekking av den enkelte salve."
+     },
+
+    "salverapport": {
+      "ord": "salverapport",
+      "definisjon": "skriftlig rapport som beskriver resultatene av den enkelte salve."
+     },
+
+    "samlekum": {
+      "ord": "samlekum",
+      "definisjon": "Kun for samling og videreføring av vann fra drensledninger og/eller lukkede ledninger."
+     },
+
+    "sand": {
+      "ord": "sand",
+      "definisjon": "Naturlig forekommende steinmateriale hvor sandfraksjonen (0,06-2,0 mm) er den dominerende."
+     },
+
+    "horisontale sanddren": {
+      "ord": "sanddren, horisontale",
+      "definisjon": "Horisontale lag av permeabel sand i vegens underbygning for drenering av tilstøtende fyllingsmasser."
+     },
+
+    "vertikale sanddren": {
+      "ord": "sanddren, vertikale",
+      "definisjon": "Vertikale søyler av permeabel sand i vegens underbygning og/eller undergrunn."
+     },
+
+    "separasjon": {
+      "ord": "separasjon",
+      "definisjon": "Utilsiktet atskillelse av finere og grovere korn i et materiale som gjør at dette blir mindre homogent."
+     },
+
+    "dyp sidegrøft": {
+      "ord": "sidegrøft, dyp",
+      "definisjon": "Åpen grøft langs vegen for samling og bortledning av overflatevann og drensvann."
+     },
+
+    "grunn sidegrøft": {
+      "ord": "sidegrøft, grunn",
+      "definisjon": "Åpen grøft langs vegen for samling og bortledning av overflatevann."
+     },
+
+    "sidetak": {
+      "ord": "sidetak",
+      "definisjon": "Sted utenfor vegområdet hvor det tas ut masser til vegkroppen. Se massetak og materialtak."
+     },
+
+    "permanent sikring": {
+      "ord": "sikring, permanent",
+      "definisjon": "Sikring som må utføres for at vegen gjennom tunnel eller skjæring skal kunne trafikkeres med tilfredsstillende sikkerhet."
+     },
+
+    "sikringsstøp": {
+      "ord": "sikringsstøp",
+      "definisjon": "Utstøping av betong mot løst berg."
+     },
+
+    "sikteanalyse": {
+      "ord": "sikteanalyse",
+      "definisjon": "Metode til bestemmelse av kornkurven ved sikting gjennom kvadratiske åpninger / masker."
+     },
+
+    "siktekurve": {
+      "ord": "siktekurve",
+      "definisjon": "Kornkurve bestemt ved sikteanalyse."
+     },
+
+    "siktstørrelse": {
+      "ord": "siktstørrelse",
+      "definisjon": "Minste fri maskevidde/åpning (sidekant) i et maskesikt eller platesikt som kornet kan passere ved sikting. dx angir siktstørrelsen ved x % gjennomgang. Se også siktstørrelse, nedre og øvre (d og D),"
+     },
+
+    "nedre og øvre siktstørrelse": {
+      "ord": "siktstørrelse, nedre (d) og øvre (D)",
+      "definisjon": "Siktstørrelse angitt som grense for en sortering (d = nedre siktstørrelse, D = øvre siktstørrelse). Innen visse grenser aksepteres det at materialet har en andel understørrelse og overstørrelse. Motsetning: Den størrelse som 100 % av materialet er mindre enn, se steinstørrelse maksimal, Dmaks."
+     },
+
+    "silt": {
+      "ord": "silt",
+      "definisjon": "Mellomjordart hvor siltfraksjonen (0,002 -0,06 mm) er den dominerende."
+     },
+
+    "singel": {
+      "ord": "singel",
+      "definisjon": "Naturlig forekommende steinmateriale med sortering innenfor området 4 til 90 mm, f.eks. 16/50 mm."
+     },
+
+    "sjakt": {
+      "ord": "sjakt",
+      "definisjon": "synk eller stigort, vertikalt eller sterkt skrånende rom i berg med stor utstrekning i lengdeaksen"
+     },
+
+    "skulder": {
+      "ord": "skulder",
+      "definisjon": "Kjørbart felt som ligger inntil kjørebanen."
+     },
+
+    "glanulat skumglass": {
+      "ord": "skumglass, granulat",
+      "definisjon": "produkt til frostsikring og lett fylling, basert på glassavfall som gjennom en industriell prosess omdannes (skummes) til granulat med karakteristisk sortering ca 10/60 mm og løs romvekt (bulkdensitet) ca 180-250 kg/m3."
+     },
+
+    "slemmeanalyse": {
+      "ord": "slemmeanalyse",
+      "definisjon": "Metode til bestemmelse av kornkurven under 0,063 mm kornstørrelse."
+     },
+
+    "slettsprengning": {
+      "ord": "slettsprengning",
+      "definisjon": "kontursprengning som utføres ved at konturhullene sprenges på det/de siste tennernummeret/ene i en salve."
+     },
+
+    "slitelag": {
+      "ord": "slitelag",
+      "definisjon": "Det øverste laget i et vegdekke. Settes sammen/beregnes for å kunne oppta trafikk- og klimapåkjenninger."
+     },
+
+    "sommerbæreevne": {
+      "ord": "sommerbæreevne",
+      "definisjon": "Den største aksellast som en veg kan utsettes for utenom teleløsningsperioden over en tidsperode (dimensjoneringsperioden) uten at vegens kjørbarhet ved normalt vedlikehold faller under en nedre akseptabel grense."
+     },
+
+    "sortering": {
+      "ord": "sortering",
+      "definisjon": "Siktet steinmateriale angitt ved nedre og øvre siktstørrelse (d og D). En sortering kan, i motsetning til en kornfraksjon, inneholde overstørrelser og understørrelser."
+     },
+
+    "spredt bolting": {
+      "ord": "spredt bolting",
+      "definisjon": "setting av bolter uten et system i boltemønsteret"
+     },
+
+    "sprengningsplan": {
+      "ord": "sprengningsplan",
+      "definisjon": "overordnet plan for sprengningsarbeidene."
+     },
+
+    "sprengt stein": {
+      "ord": "sprengt stein",
+      "definisjon": "Utsprengte bergmasser uten spesielle krav til bearbeidelse eller sortering."
+     },
+
+    "sortert sprengt stein": {
+      "ord": "sprengt stein, sortert",
+      "definisjon": "Utsprengte bergmasser som har gjennomgått en enkel bearbeiding for å sikre at maks. steinstørrelse er i henhold til angitte krav, eventuelt også at overskudd av finstoff er fjernet."
+     },
+
+    "stabilitet": {
+      "ord": "stabilitet",
+      "definisjon": "Materialers evne til å motstå forskyvninger og setninger ved dynamiske og/eller statiske belastninger. Uttykkes ved E-modul, CBR-verdi, Marshall-verdi mv."
+     },
+
+    "stavsikt": {
+      "ord": "stavsikt",
+      "definisjon": "Også kalt langmaskesikt. Sikt med parallelle stenger i lik avstand, parallelle åpniner (motsatt: kvadratsikt)."
+     },
+
+    "steinkurver": {
+      "ord": "steinkurver",
+      "definisjon": "Kurver av ståltrådnetting fylt med steinmateriale."
+     },
+
+    "steinmasser": {
+      "ord": "steinmasser",
+      "definisjon": "Løsmasser av naturlig forekommende stein og blokk, samt sprengt berg med forskjellig stykkfall."
+     },
+
+    "steinmateriale": {
+      "ord": "steinmateriale",
+      "definisjon": "Fellesbetegnelse for naturlig oppdelt eller maskinelt knust bergartsmateriale (som brukes ved vegbygging). filler grus kult pukk rundkamp sams grus sams pukk sand singel steinmel"
+     },
+
+    "steinmel": {
+      "ord": "steinmel",
+      "definisjon": "Knust steinmateriale med øvre siktstørrelse mindre enn 4 mm."
+     },
+
+    "maksimal steinstørrelse": {
+      "ord": "steinstørrelse, maksimal",
+      "definisjon": "Også kalt største steinstørrelse."
+     },
+
+    "stenderboring": {
+      "ord": "stenderboring",
+      "definisjon": "Boring i bergskjæring tilnærmet parallelt med tverrprofilenes plan."
+     },
+
+    "stikkprøvekontroll": {
+      "ord": "stikkprøvekontroll",
+      "definisjon": "Byggherrens kontroll av den løpende produksjon i omfang vesentlig mindre enn driftskontrollen."
+     },
+
+    "stikkrenne": {
+      "ord": "stikkrenne",
+      "definisjon": "Vanngjennomløp på tvers av vegen med max. 1 m fri åpning. Inn- og utløp kan være åpne, men kan også være knyttet til inn- og utløpskonstruksjoner som kummer og støtteskjold."
+     },
+
+    "strossing": {
+      "ord": "strossing",
+      "definisjon": "Sprengning for å utvide tverrsnittet i en tunnel eller bergskjæring."
+     },
+
+    "stuff": {
+      "ord": "stuff",
+      "definisjon": "arbeidsfront i tunnel, sjakt, bergrom eller skjæring, se bak stuff og ved stuff."
+     },
+
+    "styrkeindeks": {
+      "ord": "styrkeindeks",
+      "definisjon": "Summen av indeksverdiene for alle lag i en vegoverbygning ned til undergrunnen."
+     },
+
+    "støpeasfalt": {
+      "ord": "støpeasfalt (Sta)",
+      "definisjon": "En ensartet blanding av tørket, oppvarmet steinmateriale med høyt fillerinnhold og oppvarmet bindemiddel. Materialene er slik sammensatt at blandingen blir praktisk talt hulromfri uten komprimering."
+     },
+
+    "subbus": {
+      "ord": "subbus",
+      "definisjon": "Sikterest fra sprengte og/eller knuste steinmaterialer etter at de ønskede kornfraksjoner er tatt ut."
+     },
+
+    "systematisk bolting": {
+      "ord": "systematisk bolting",
+      "definisjon": "setting av bolter med et system i boltemønsteret"
+     },
+
+    "sømboring": {
+      "ord": "sømboring",
+      "definisjon": "Tett boring av parallelle hull i konturen som ikke lades"
+     },
+
+    "telefarlig materiale": {
+      "ord": "telefarlig materiale, overbygning",
+      "definisjon": "Overbygningsmateriale som på grunn av høyt innhold av de fineste kornfraksjoner anses som telefarlig og/eller vannømfintlig. Et stein- eller grusmateriale er telefarlig når det inneholder mer enn 3% som passerer 0,020 mm, regnet av materiale som passerer 22,4 mm. Ytterligere kriterier for korngradering må brukes for å bestemme om materialet klassifiserer til T2 (litt telefarlig), T3 (middels telefarlig) eller T4 (meget telefarlig). Se også telefarlighetsgrad og vannømfintlighet."
+     },
+
+    "telefarlighetsgrad": {
+      "ord": "telefarlighetsgrad",
+      "definisjon": "En jordarts telefarlighet, i Norge angitt etter en skala fra T1 (ikke telefarlig) til T4 (meget telefarlig)."
+     },
+
+    "telehiv": {
+      "ord": "telehiv",
+      "definisjon": "Løfting som følge av frost og påfølgende teledannelse i underliggende telefarlige jordarter."
+     },
+
+    "teleløsning": {
+      "ord": "teleløsning",
+      "definisjon": "Den periode hvor telen går ut av vegkroppen og hvor bæreevnen er på sitt laveste."
+     },
+
+    "teleskader": {
+      "ord": "teleskader",
+      "definisjon": "Skader på vegen pga. telehiv og/eller nedsatt bæreevne i overbygningen pga. smeltevann som ikke har fritt avløp i teleløsningsperioden."
+     },
+
+    "terrenggrøft": {
+      "ord": "terrenggrøft (overvannsgrøft)",
+      "definisjon": "Åpen grøft langs vegen utenfor skjæringstoppen eller fyllingsfoten for avskjæring og bortledning av vann."
+     },
+
+    "tilslag": {
+      "ord": "tilslag",
+      "definisjon": "Fellesbetegnelse på steinmaterialer brukt i asfalt, betong og sementstabiliserte materialer."
+     },
+
+    "topeka": {
+      "ord": "Topeka (Top)",
+      "definisjon": "En ensartet blanding av tørket, oppvarmet steinmateriale og oppvarmet bitumen. Kornkurven skal ha et tydelig partikkelsprang."
+     },
+
+    "trafikkbelastning": {
+      "ord": "trafikkbelastning (N)",
+      "definisjon": "N er lik sumummen av ekvivalente 10 t aksler pr. felt i dimensjoneringsperioden og er den trafikkbelastning som vegen beregningsmessig skal tåle."
+     },
+
+    "trafikkdeler": {
+      "ord": "trafikkdeler",
+      "definisjon": "Fysisk skille mellom ulike trafikkstrømmer."
+     },
+
+    "trafikkmengde": {
+      "ord": "trafikkmengde",
+      "definisjon": "Se årsdøgntrafikk."
+     },
+
+    "traubunn": {
+      "ord": "traubunn",
+      "definisjon": "Se planum. Tidligere brukt betegnelse for planum i skjæring."
+     },
+
+    "tunnelpåhugg": {
+      "ord": "tunnelpåhugg",
+      "definisjon": "Den første salve for en tunnel."
+     },
+
+    "underboring": {
+      "ord": "underboring",
+      "definisjon": "boring under prosjektert sprengningsnivå"
+     },
+
+    "understørrelse": {
+      "ord": "understørrelse",
+      "definisjon": "Andel korn i en sortering som er mindre enn nedre siktstørelse (d). Også kalt underkorn. Mengden angis i masseprosent av det samlede materialet."
+     },
+
+    "utblokking": {
+      "ord": "utblokking",
+      "definisjon": "Montering av rekkverksskinne minst 120 mm fra rekkverksstolpen."
+     },
+
+    "utblokkingsbøyle": {
+      "ord": "utblokkingsbøyle",
+      "definisjon": "Bøyle som gir avstand mellom rekkverkstolpe og rekkverkskinne."
+     },
+
+    "utbøyningsrom": {
+      "ord": "utbøyningsrom",
+      "definisjon": "Avstanden fra forkant rekkverksstolpe til avrundet skråningstopp eller hindring."
+     },
+
+    "vanninnhold": {
+      "ord": "vanninnhold",
+      "definisjon": "Vanninnholdet i et materiale angitt i masseprosent av tørrstoffmengden."
+     },
+
+    "optimalt vanninnhold": {
+      "ord": "vanninnhold, optimalt",
+      "definisjon": "Det vanninnhold et materiale må ha for å gi størst tørrdensitet ved en gitt komprimeringsenergi. Ved komprimering i felt vil det gunstigste vanninnhold avhenge av komprimeringsutstyret og ofte være forskjellig fra det optimale målt ved for eksempel Proctorforsøk i laboratorium."
+     },
+
+    "vannømfintlighet": {
+      "ord": "vannømfintlighet",
+      "definisjon": "Stabilitetsegenskap ved påvirking av vann. Et materiale er vanligvis vannømfintlig dersom minst 7 % av materialet mindre enn 22,4 mm passerer 63 µm siktet. Se også materialer, selvdrenerende."
+     },
+
+    "vederlag": {
+      "ord": "vederlag",
+      "definisjon": "Overgangen mellom vegg og tak i tunnel."
+     },
+
+    "vedheftningsmidler": {
+      "ord": "vedheftningsmidler",
+      "definisjon": "Stoff som tilsettes et bituminøst bindemiddel for å bedre vedheftningen til steinmaterialet."
+     },
+
+    "ved stuff": {
+      "ord": "ved stuff",
+      "definisjon": "begrep for å betegne arbeider som må utføres slik at de medfører heft eller stillstand i fremdriften ved stuff, se også bak stuff"
+     },
+
+    "vegdekke": {
+      "ord": "vegdekke",
+      "definisjon": "Den øverste del av overbygningen. Består vanligvis av et slitelag og et bindelag."
+     },
+
+    "vegfylling": {
+      "ord": "vegfylling",
+      "definisjon": "Oppfylling på opprinnelig terreng begrenset av fyllingsskråning og vegens planum."
+     },
+
+    "vegkonstruksjon": {
+      "ord": "vegkonstruksjon",
+      "definisjon": "Summen av alle elementer som inngår i vegen, dvs. underbygning, overbygning, samt konstruksjoner av kompletterende karakter som rekkverk, avvanningssystem etc."
+     },
+
+    "forspent vegrekkverk": {
+      "ord": "vegrekkverk, forspent",
+      "definisjon": "Vegrekkverk som påføres strekk-krefter."
+     },
+
+    "vegskjæring": {
+      "ord": "vegskjæring",
+      "definisjon": "Utgraving i opprinnelig terreng begrenset av skjæringsskråninger og vegens planum (traubunn)."
+     },
+
+    "årsdøgntrafikk": {
+      "ord": "årsdøgntrafikk (ÅDT)",
+      "definisjon": "Det totale antall kjøretøy som passerer et snitt av en veg i løpet av ett år, dividert med 365."
+     },
+
+    "tunge årsdøgntrafikk": {
+      "ord": "årsdøgntrafikk, tunge (ÅDT-T)",
+      "definisjon": "Det totale antall tunge kjøretøy (≥ 3,5 t) som passerer et snitt av en veg i løpet av ett år, dividert med 365."
+    }
+
+}
