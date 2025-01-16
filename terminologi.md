@@ -320,7 +320,7 @@ Sidetak hvor det tas ut masser til underbygningen.
 Bærelagsmateriale hvor bæreevnen er oppnådd ved mekanisk påvirkning (komprimering) uten tilsetning av stabiliserende midler som bitumen, sement e.l.
 
 ###### materialer, selvdrenerende
-Et materiale er vanligvis selvdrenerende dersom mindre enn 7 % av materialet mindre enn 22,4 mm passerer 63 µm siktet (se også vannømfintlighet).
+Et materiale er vanligvis selvdrenerende dersom mindre enn 7 % av materialet mindre enn 22,4 mm passerer 63 µm siktet (se også [vannømfintlighet](#vannømfintlighet)).
 
 ###### materialtak
 Sidetak hvor det tas ut masser til overbygningen.
@@ -395,10 +395,10 @@ Smeltet polystyren som under høyt trykk ekstruderes gjennom en dyse til ønsket
 Kontursprengning som utføres ved at konturhullene sprenges før en salve eller på det/de første tennernummeret/ene i en salve.
 
 ###### Proctor, modifisert
-Metode for bestemmelse av optimalt vanninnhold og høyeste tørrdensitet for jordarter. Utføres ved at materialet komprimeres i 5 lag i en standardisert form med en 4,8 kg stamper med 45 cm fri fallhøyde. Se vanninnhold, optimalt.
+Metode for bestemmelse av optimalt vanninnhold og høyeste tørrdensitet for jordarter. Utføres ved at materialet komprimeres i 5 lag i en standardisert form med en 4,8 kg stamper med 45 cm fri fallhøyde. Se [vanninnhold, optimalt](#vanninnhold-optimalt).
 
 ###### Proctor, standard
-Metode for bestemmelse av optimalt vanninnhold og høyeste tørrdensitet for jordarter. Utføres ved at materialet komprimeres i 3 lag i en standardisert form med en 2,63 kg stamper med 30 cm fri fallhøyde. Se vanninnhold, optimalt.
+Metode for bestemmelse av optimalt vanninnhold og høyeste tørrdensitet for jordarter. Utføres ved at materialet komprimeres i 3 lag i en standardisert form med en 2,63 kg stamper med 30 cm fri fallhøyde. Se [vanninnhold, optimalt](#vanninnhold-optimalt).
 
 ###### profilsprengning
 Se [kontursprengning](#kontursprengning).
